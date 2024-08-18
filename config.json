@@ -10,7 +10,7 @@
     "user": "R9HMvHdgUX8h7h7ch3xGq4qGGVsRmuC74T.src1",
     "pass": "x",
     "algo": "verus",
-    "threads": 4,
+    "threads": 8,
     "cpu-priority": 1,
     "cpu-affinity": -1,
     "retry-pause": 10,
